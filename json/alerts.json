@@ -1,8 +1,8 @@
 [
     {
         "icon": "warning",
-        "title": "This title",
-        "description": "This description..",
+        "title": "COVID-19",
+        "description": "See the latest assessment and care options, plus temporary visitor restrictions.",
         "link": "https://www.google.com",
         "target": "_blank"
     }
