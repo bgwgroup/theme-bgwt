@@ -1,0 +1,9 @@
+[
+    {
+        "icon": "info",
+        "title": "This title",
+        "description": "This description..",
+        "link": "https://www.google.com",
+        "target": "_blank"
+    }
+]
