@@ -58,5 +58,45 @@
         "image": "https://i.ibb.co/rxWX4mb/1660309034097.jpg",
         "link": "https://www.linkedin.com/posts/bgw-technologies_securityindustry-i-cctvsecurity-activity-6963840834043613184-X6Zl/",
         "target": "_blank"
+    },
+    {
+        "category": "category-news",
+        "date": "12 Aug",
+        "video": "false",
+        "title": "Join our suppliers i-Pro, VixVision and Dell Technologies",
+        "text": "On the Milestone Systems stand H38 at the Security Exhibition on 17, 18, 19 Aug at Sydney ICC.",
+        "image": "https://i.ibb.co/DCp0yHF/1660176811702.jpg",
+        "link": "https://www.linkedin.com/posts/bgw-technologies_securityindustry-activity-6963286247029055489-zMgF/",
+        "target": "_blank"
+    },
+    {
+        "category": "category-news",
+        "date": "8 Aug",
+        "video": "false",
+        "title": "Vale - Jim George Tribute",
+        "text": "It is with great sadness that we advise that the BGW family and in particular the Victorian branch has lost a great friend and colleague in Jim George.",
+        "image": "https://i.ibb.co/SJGs6ZG/1659664453665.jpg",
+        "link": "https://www.linkedin.com/posts/bgw-technologies_vale-jim-george-it-is-with-great-sadness-activity-6961137263426629632-eWDK/",
+        "target": "_blank"
+    },
+    {
+        "category": "category-news",
+        "date": "28 Jul",
+        "video": "true",
+        "title": "I-Pro APAC Experience Center",
+        "text": "Check out the new I-Pro APAC experience center in Brisbane. Book a meeting to meet the team and to get a full run down on the i-Pro solutions.",
+        "image": "https://i.ibb.co/h1tzHV5/34546g.jpg",
+        "link": "https://www.linkedin.com/posts/bgw-technologies_ai-ipro-deeplearning-activity-6960197835074002944-GLc7/",
+        "target": "_blank"
+    },
+    {
+        "category": "category-news",
+        "date": "15 Jul",
+        "video": "false",
+        "title": "BGW Technologies Sydney Security Exhibition",
+        "text": "Catch up to the BGW Technologies team on the Johnson Controls Security Products stand at the Security Exhibition & Conference in Sydney on 17th, 18th and 19th August 2022 in ICC, Sydney at Booth K37.",
+        "image": "https://i.ibb.co/mrjSyK5/1659425026483.jpg",
+        "link": "https://www.linkedin.com/posts/bgw-technologies_security-dsc-qolsys-activity-6960133032766844928-hpGm/",
+        "target": "_blank"
     }
 ]
