@@ -14,5 +14,13 @@
     "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/milestone-cover.jpg",
     "rangeUrl": "/search/?text=Milestone",
     "website": "https://www.milestonesys.com/"
+  },
+  {
+    "title": "Avigilon",
+    "description": "The Avigilon portfolio of fixed video, advanced analytics and smart access control systems are a part of the USA Motorola Solutions’ group specialising in mission-critical ecosystem designed for public safety and enterprise security.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/avigilon.svg",
+    "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/avigilon-cover.jpg",
+    "rangeUrl": "/search/?text=Avigilon",
+    "website": "https://www.avigilon.com/"
   }
 ]
