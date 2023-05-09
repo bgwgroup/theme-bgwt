@@ -3,8 +3,16 @@
     "title": "i-Pro (previously Panasonic)",
     "description": "i-Pro (previously Panasonic) in Japan is a world renowned leader in CCTV video surveillance equipment and security cameras, it has over 60 years of heritage in the security industry, and has introduced ground-breaking technology over the past half-century to Australia.",
     "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/ipro-panasonic.jpg",
-    "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/ipro-panasonic.jpg-cover",
+    "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/ipro-panasonic-cover.jpg",
     "rangeUrl": "/search/?text=iPro+Panasonic",
     "website": "https://i-pro.com/corp/en/"
+  },
+  {
+    "title": "Milestone Systems",
+    "description": "Milestone Systems in Denmark is a global leader in open platform IP video management software (VMS). Milestone joins forces with a powerful open ecosystem of Partners to offer dynamic surveillance solutions to meet the ever changing demands of customer and technologies in Australia",
+    "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/milestone.jpg",
+    "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/milestone-cover.jpg",
+    "rangeUrl": "/search/?text=Milestone",
+    "website": "https://www.milestonesys.com/"
   }
 ]
