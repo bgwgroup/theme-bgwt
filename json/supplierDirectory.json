@@ -110,5 +110,29 @@
     "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/iluminar-cover.jpg",
     "rangeUrl": "/search/?text=Iluminar",
     "website": "https://www.iluminarinc.com/"
+  },
+  {
+    "title": "Tamron",
+    "description": "Tamron in Japan is a global manufacturer of optical equipment lenses that offers premium grade camera lenses for security and CCTV cameras used in industrial and enterprise segments of the market in Australia.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/tamron.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/tamron-cover.jpg",
+    "rangeUrl": "/search/?text=Tamron",
+    "website": "https://tamron.com.au/"
+  },
+  {
+    "title": "See Security",
+    "description": "See Security is an Australian owned and operated company. We pride ourselves in manufacturing and distributing a comprehensive range of security and CCTV camera housings and brackets specifically for Australian applications.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/seesecurity.jpg",
+    "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/seesecurity-cover.jpg",
+    "rangeUrl": "/search/?text=See+Security",
+    "website": "https://www.seesecurity.com.au/"
+  },
+  {
+    "title": "Juniper",
+    "description": "Juniper in the USA is an IT network platform used by the world’s biggest and busiest wired and wireless carriers, cable and satellite operators, content and Internet service providers, and is a Tier 1 choice for the use by security professionals in Australia.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/juniper.jpg",
+    "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/juniper-cover.jpg",
+    "rangeUrl": "/search/?text=Juniper",
+    "website": "https://www.juniper.net"
   }
 ]
