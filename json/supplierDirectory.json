@@ -134,5 +134,85 @@
     "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/juniper-cover.jpg",
     "rangeUrl": "/search/?text=Juniper",
     "website": "https://www.juniper.net"
+  },
+  {
+    "title": "DSC",
+    "description": "DSC a JCI company in the USA is a world leader in electronic security. From the revolutionary DSC Alarm panels, PowerG wireless sensors, to our industry-leading IP alarm monitoring products, DSC has you covered for all Australian security needs.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/dsc.jpeg",
+    "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/dsc-cover.jpg",
+    "rangeUrl": "/search/?text=DSC",
+    "website": "http://www.dsc.com"
+  },
+  {
+    "title": "Alarm.com",
+    "description": "Alarm.com a USA based company has a global platform for the intelligently connected property. Our security, video monitoring, intelligent automation and energy management products and interactive mobile platform are available through a network of professional security providers in Australia.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/alarmcom.jpeg",
+    "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/alarmcom-cover.jpg",
+    "rangeUrl": "/search/?text=Alarm.com",
+    "website": "https://www.alarm.com/AU"
+  },
+  {
+    "title": "LenelS2",
+    "description": "LenelS2 Netbox in the USA pioneered the use of network security appliances (access control and CCTV) with browser-delivered content to build flexible management systems that meet the demands of both the security and the IT departments in Australia and globally.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/lenels2.jpg",
+    "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/lenels2-cover.jpg",
+    "rangeUrl": "/search/?text=LenelS2",
+    "website": "https://www.s2sys.com/solutions/products/access-control-systems/netbox"
+  },
+  {
+    "title": "Kocom",
+    "description": "Kocom in Korea is known for its outstanding design and high quality residential audio intercoms and video Intercoms. World class technology has seen Kocom become a market leader in Australia over the past two decades in the new home builder markets.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/kocom.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/kocom-cover.jpg",
+    "rangeUrl": "/search/?text=Kocom",
+    "website": "http://www.kocom.com"
+  },
+  {
+    "title": "Qolsys",
+    "description": "Qolsys in the USA is revolutionising the security alarm market with products and platforms that gives end customers and security professionals the next generation of useability and value never seen before in the security, CCTV and smart home market in Australia.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/qolsys.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/qolsys-cover.jpg",
+    "rangeUrl": "/search/?text=Qolsys",
+    "website": "https://qolsys.com/"
+  },
+  {
+    "title": "Madison Technologies",
+    "description": "Madison Technologies is an Australian owned business that innovates, distributes and supports a range of high-quality products such as security and communications cables and devices for day to day use or for specialized project use in Australia.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/madison.svg",
+    "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/madison-cover.png",
+    "rangeUrl": "/search/?text=Madison+Technologies",
+    "website": "https://madison.tech/"
+  },
+  {
+    "title": "Assa Abloy",
+    "description": "Assa Abloy AB is a Swedish company whose offerings cover products and services ranging from locks, doors, gates and entrance automation. With manufacturing plants and specialist people on the group globally and in Australia, you can rely on Assa Abloy.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/assaabloy.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/assaabloy-cover.jpg",
+    "rangeUrl": "/search/?text=Assa+Abloy",
+    "website": "https://www.assaabloyopeningsolutions.com.au/en/"
+  },
+  {
+    "title": "Kantech",
+    "description": "Kantech a part of the JCI company in the USA and offers a full suite of feature rich and cost effective access control products that are reliable, easy to install and fully scalable for the SME and Enterprise markets in Australia",
+    "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/kantech.jpg",
+    "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/kantech-cover.jpg",
+    "rangeUrl": "/search/?text=Kantech",
+    "website": "https://www.kantech.com/"
+  },
+  {
+    "title": "Optex",
+    "description": "Optex Co., Ltd. in Japan has been providing No.1 global niche products and services to the world with our sensing technology which has been refined since its establishment and its capabilities developed to solve challenges in site-specific environments or purpose of use.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/optex.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/optex-cover.jpg",
+    "rangeUrl": "/search/?text=Optex",
+    "website": "https://www.optex.co.jp"
+  },
+  {
+    "title": "Software House",
+    "description": "Software House (a JCI Company) in the USA has built a reputation in the security industry as an innovator of security and event management technologies. With its continuous investment in R&D, and the ability to leverage new technologies, Software House has reached technological excellence. Reliability, flexibility, and power are why many companies choose Software House solutions for their security needs.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/softwarehouse.gif",
+    "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/optex-cover.jpeg",
+    "rangeUrl": "/search/?text=Software+House",
+    "website": "https://www.swhouse.com/"
   }
 ]
