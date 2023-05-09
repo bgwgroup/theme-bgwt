@@ -38,5 +38,21 @@
     "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/dell-cover.jpg",
     "rangeUrl": "/search/?text=Dell",
     "website": "http://www.dell.com.au/"
+  },
+  {
+    "title": "Allied Telesis",
+    "description": "Allied Telesis in Japan creates high quality, secure and easy to use wired and wireless IT networks products to support a complete IP based security and CCTV solution in medium to large scale government and enterprise segments in Australia.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/alliedtelesis.svg",
+    "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/alliedtelesis-cover.jpg",
+    "rangeUrl": "/search/?text=Allied+Telesis",
+    "website": "https://www.alliedtelesis.com/us/en"
+  },
+  {
+    "title": "Vix Vizion",
+    "description": "Vix Vizion Pty Ltd, formerly Imagus Technology in Australia, is a leader in video analytics and facial recognition technology using advanced deep learning algorithms to identify people’s faces for the purpose of security, operations and access control in Australia.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/vixvizion.jpg",
+    "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/vixvizion-cover.jpg",
+    "rangeUrl": "/search/?text=Vix+Vizion",
+    "website": "https://www.vixvizion.com/"
   }
 ]
