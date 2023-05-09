@@ -78,5 +78,21 @@
     "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/antrica-cover.jpeg",
     "rangeUrl": "/search/?text=Antrica",
     "website": "http://www.antrica.com/"
+  },
+  {
+    "title": "ION",
+    "description": "ION in Australia believe power protection and security solutions go hand in hand and ION has been designs power protection solutions specifically for the Australian market. ION’s latest technology backed by an industry leading warranty and advanced replace process.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/ion.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/ion-cover.jpg",
+    "rangeUrl": "/search/?text=Ion",
+    "website": "http://www.ionups.com.au/"
+  },
+  {
+    "title": "Veracity",
+    "description": "Veracity in the UK design, develop and market innovative transmission, storage and display products, primarily for network video surveillance applications which solve real-world IP Video problems globally and in Australia.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/veracity.jpg",
+    "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/veracity-cover.jpg",
+    "rangeUrl": "/search/?text=Veracity",
+    "website": "http://www.veracityglobal.com/"
   }
 ]
