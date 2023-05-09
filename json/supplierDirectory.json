@@ -91,8 +91,24 @@
     "title": "Veracity",
     "description": "Veracity in the UK design, develop and market innovative transmission, storage and display products, primarily for network video surveillance applications which solve real-world IP Video problems globally and in Australia.",
     "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/veracity.jpg",
-    "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/veracity-cover.jpg",
+    "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/veracity-cover.png",
     "rangeUrl": "/search/?text=Veracity",
     "website": "http://www.veracityglobal.com/"
+  },
+  {
+    "title": "KBC Networks",
+    "description": "KBC Networks in the USA is a global manufacturer of industrial transmission equipment, specifically for the transmission of information across multiple mediums, including IP, Wireless, Fibre Optic and encrypted for security and CCTV solutions in Australia",
+    "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/kbc.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/kbc-cover.jpg",
+    "rangeUrl": "/search/?text=KBC+Networks",
+    "website": "https://www.kbcnetworks.com/"
+  },
+  {
+    "title": "Iluminar",
+    "description": "Iluminar in the USA is a specialist manufacturer and supplier of high quality Infrared (IR) and white light illuminators and license plate recognition products designed specifically for the security and CCTV industries worldwide and in Australia.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/iluminar.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/iluminar-cover.jpg",
+    "rangeUrl": "/search/?text=Iluminar",
+    "website": "https://www.iluminarinc.com/"
   }
 ]
