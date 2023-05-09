@@ -1,18 +1,10 @@
 [
   {
-    "title": "Australian Plastic Profiles (APP)",
-    "description": "AussieDuct is a key pillar of the larger Australian Plastic Profiles (APP) family, and an iconic brand in the Australian electrical products industry.",
-    "logoImg": "/_ui/responsive/common/images/suppliers/cnw/australian-plastic-profiles.png",
-    "coverImg": "/_ui/responsive/common/images/suppliers/cnw/australian-plastic-profiles-cover.jpg",
-    "rangeUrl": "/search/?text=Australian+Plastic+Profiles",
-    "website": "https://www.app.net.au/"
+    "title": "i-Pro (previously Panasonic)",
+    "description": "i-Pro (previously Panasonic) in Japan is a world renowned leader in CCTV video surveillance equipment and security cameras, it has over 60 years of heritage in the security industry, and has introduced ground-breaking technology over the past half-century to Australia.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/ipro-panasonic.jpg",
+    "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/ipro-panasonic.jpg-cover",
+    "rangeUrl": "/search/?text=iPro+Panasonic",
+    "website": "https://i-pro.com/corp/en/"
   },
-  {
-    "title": "B&R Enclosures",
-    "description": "Electrical enclosures, server racks and cabinets, plastic boxes, climate control systems and switchboard building products from B&R Enclosures.",
-    "logoImg": "/_ui/responsive/common/images/suppliers/cnw/br-enclosures.svg",
-    "coverImg": "/_ui/responsive/common/images/suppliers/cnw/br-enclosures-cover.jpg",
-    "rangeUrl": "/search/?text=B&R+Enclosures",
-    "website": "https://www.brenclosures.com.au/"
-  }
 ]
