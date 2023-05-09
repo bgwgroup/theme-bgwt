@@ -22,5 +22,21 @@
     "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/avigilon-cover.jpg",
     "rangeUrl": "/search/?text=Avigilon",
     "website": "https://www.avigilon.com/"
+  },
+  {
+    "title": "Pelco",
+    "description": "Pelco a Motorola Solutions company in the USA has a long and prestigious history of offering high-quality, innovative products and exceptional customer service in security and CCTV market segments around the world and in Australia.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/pelco.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/pelco-cover.jpg",
+    "rangeUrl": "/search/?text=Pelco",
+    "website": "http://www.pelco.com/"
+  },
+  {
+    "title": "Dell",
+    "description": "Dell in the USA empowers countries, communities and people everywhere to use technology to realize their dreams. The security and IT industry trusts Dell Servers, Workstations, Software and networking equipment to underpin the security solutions in Australia.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/dell.jpg",
+    "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/dell-cover.jpg",
+    "rangeUrl": "/search/?text=Dell",
+    "website": "http://www.dell.com.au/"
   }
 ]
