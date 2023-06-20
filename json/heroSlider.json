@@ -30,5 +30,13 @@
       "imgMobile":"https://i.ibb.co/bsmTYc0/BGWT-Mobile-600-600-px.png",
       "btnText":"Explore VixVizion",
       "btnLink":"https://www.vixvizion.com/"
+   },
+   {
+      "title":"No heading",
+      "subtitle":"No sub-title",
+      "imgDesktop":"https://i.ibb.co/W5s6fsx/ION-BGW-Hero-Slider-1280x720px.jpg",
+      "imgMobile":"https://i.ibb.co/HxQZFb4/ION-BGW-Hero-Slider-600x600px.jpg",
+      "btnText":"Explore ION UPS",
+      "btnLink":"https://ionups.com.au/"
    }
 ]
