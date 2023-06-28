@@ -1,10 +1,10 @@
 [
   {
     "active": "true",
-    "department": "Sales",
+    "department": "Sales/Operations",
     "employmentType": "Full-time",
-    "title": "Striker - Northern Beaches, NSW",
-    "location": "Sydney, New South Wales, Australia",
+    "title": "Inside Sale/ Operations – Security Technology",
+    "location": "Queensland, Australia",
     "flag": "au",
     "url": "#"
   },
@@ -12,17 +12,17 @@
     "active": "true",
     "department": "Sales",
     "employmentType": "Full-time",
-    "title": "Musketeer, Sunshine Coast + North Brisbane",
-    "location": "Sunshine Coast, Queensland, Australia",
+    "title": "Technical Sales Engineer",
+    "location": "South Australia, Australia",
     "flag": "au",
     "url": "#"
   },
   {
     "active": "true",
-    "department": "Marketing",
+    "department": "Sales",
     "employmentType": "Full-time",
-    "title": "Advertising & Media Manager",
-    "location": "Sydney, New South Wales, Australia",
+    "title": "Technical Sales Engineer",
+    "location": "New South Wales, Australia",
     "flag": "au",
     "url": "#"
   }
