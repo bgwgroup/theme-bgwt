@@ -1,7 +1,27 @@
 [
+   {
+      "category": "category-news",
+      "date": "21 July",
+      "video": "false",
+      "title": "Latest Products from Dell",
+      "text": "As a Dell Partner, you can trust that when you are buying Dell products from us, that you are buying genuine parts. Let’s take a look at a couple of products in our Dell range that shine in the catalogue.",
+      "image": "https://i.ibb.co/mJSP6WS/dell-poweredge-servers.jpg",
+      "link": "/news-article/latest-products-from-dell",
+      "target": "_self"
+  },
   {
       "category": "category-news",
-      "date": "20 Jun",
+      "date": "21 July",
+      "video": "false",
+      "title": "Avigilon - H5A Multi-Sensor Camera",
+      "text": "In this article, we’d like to introduce you to the Avigilon H5A Multisensor camera. It boasts 360-degree panoramic views with faster frame rates delivering high-quality images in even the most challenging of lighting situations.",
+      "image": "https://i.ibb.co/bmSH23Z/avigilon-1.png",
+      "link": "/news-article/avigilon-h5a-multi-sensor",
+      "target": "_self"
+  },
+  {
+      "category": "category-news",
+      "date": "20 June",
       "video": "false",
       "title": "Milestone Experience Days- ‘Change the Perceptions of what is possible’.",
       "text": "The Milestone South Pacific team are excited to invite you to attend the first Milestone XPerience Days 2023 on 26-27 July in QLD.",
@@ -11,7 +31,7 @@
   },
   {
       "category": "category-promotion",
-      "date": "19 Jun",
+      "date": "19 June",
       "video": "true",
       "title": "i-Pro Config Tool",
       "text": "i-PRO APAC has designed a configuration tool allowing its cameras to seamlessly integrate with Milestone Systems and…",
