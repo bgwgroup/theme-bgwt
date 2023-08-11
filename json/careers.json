@@ -1,6 +1,6 @@
 [
   {
-    "active": "true",
+    "active": "false",
     "department": "Sales/Operations",
     "employmentType": "Full-time",
     "title": "Inside Sale/ Operations – Security Technology",
@@ -9,7 +9,7 @@
     "url": "#"
   },
   {
-    "active": "true",
+    "active": "false",
     "department": "Sales",
     "employmentType": "Full-time",
     "title": "Technical Sales Engineer",
@@ -18,7 +18,7 @@
     "url": "#"
   },
   {
-    "active": "true",
+    "active": "false",
     "department": "Sales",
     "employmentType": "Full-time",
     "title": "Technical Sales Engineer",
