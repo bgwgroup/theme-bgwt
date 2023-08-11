@@ -1,6 +1,26 @@
 [
    {
       "category": "category-news",
+      "date": "11 Aug",
+      "video": "false",
+      "title": "Double delivery Friday!",
+      "text": "Always good when 2 x twenty footers of security products are arriving into our Sydney national warehouse . Monday will see the gear distributed to our 5 branches across the country.",
+      "image": "https://i.ibb.co/P4XXgwn/1691673671092.jpg",
+      "link": "https://www.linkedin.com/posts/bgw-technologies_businessgrowth-securityindustry-australianowned-activity-7095418533882298368-iRvw?utm_source=share&utm_medium=member_desktop",
+      "target": "_blank"
+  },
+   {
+      "category": "category-promotion",
+      "date": "04 Aug",
+      "video": "false",
+      "title": "18% More Discount - Milestone + i-PRO & more",
+      "text": "18% More Discount – BGW Technologies is offering an 18% more discount for the entire bundle when a new Milestone XProtect Express+ or XProtect Professional+ system is bundled with any X-Series or S-Series camera from i-PRO including Edge Ai Apps and Activeguard. Perfect for those small to medium commercial, government or enterprise sites where you need top class products.",
+      "image": "https://i.ibb.co/1nZ0ZYX/1690944070256.gif",
+      "link": "https://bgwt.com.au/i-pro-milestone-18-campaign.pdf",
+      "target": "_blank"
+  },
+   {
+      "category": "category-news",
       "date": "03 Aug",
       "video": "true",
       "title": "The Qolsys IQ WiFi 6 from Johnson Controls",
