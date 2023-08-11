@@ -2,6 +2,16 @@
    {
       "category": "category-news",
       "date": "03 Aug",
+      "video": "false",
+      "title": "The Qolsys IQ WiFi 6 from Johnson Controls",
+      "text": "The latest generation mesh Wi-Fi router the Qolsys IQ WiFi 6 from Johnson Controls was purpose built to improve installation and maintenance efficiencies for Dealers.",
+      "image": "https://i.ibb.co/10986WG/JCI-BGWT-Giving-Away-Qolsys-6-At-Sec-Tech-1-LR-1.jpg",
+      "link": "/news-article/qolsys-wifi-6",
+      "target": "_self"
+  },
+   {
+      "category": "category-news",
+      "date": "03 Aug",
       "video": "true",
       "title": "i-PRO Multi-directional and PTZ Combo camera",
       "text": "i-PRO has turned the surveillance camera industry upside down with the release of the Multi-directional and PTZ Camera with Ai engine.",
