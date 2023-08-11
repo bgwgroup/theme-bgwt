@@ -1,6 +1,16 @@
 [
    {
       "category": "category-news",
+      "date": "03 Aug",
+      "video": "true",
+      "title": "i-PRO Multi-directional and PTZ Combo camera",
+      "text": "i-PRO has turned the surveillance camera industry upside down with the release of the Multi-directional and PTZ Camera with Ai engine.",
+      "image": "https://i.ibb.co/7CjPDqt/lens.png",
+      "link": "/news-article/i-pro-multi-ptz",
+      "target": "_self"
+  },
+   {
+      "category": "category-news",
       "date": "21 July",
       "video": "true",
       "title": "Introducing the New i-PRO Configuration Tool",
