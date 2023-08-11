@@ -7,27 +7,6 @@
       "link":"/c/CCTV"
    },
    {
-      "title":"Power",
-      "subtitle":"",
-      "icon":"",
-      "image":"/_ui/responsive/theme-bgwt/images/featured-products/power.jpg",
-      "link":"/c/POWER"
-   },
-   {
-      "title":"IT Products",
-      "subtitle":"",
-      "icon":"",
-      "image":"/_ui/responsive/theme-bgwt/images/featured-products/it-products.jpg",
-      "link":"/c/ITPRODUCTS"
-   },
-   {
-      "title":"Cables & Installation",
-      "subtitle":"",
-      "icon":"",
-      "image":"/_ui/responsive/theme-bgwt/images/featured-products/cable-installation.jpg",
-      "link":"/c/CABLES"
-   },
-   {
       "title":"Intrusion Alarm",
       "subtitle":"",
       "icon":"",
@@ -42,6 +21,13 @@
       "link":"#"
    },
    {
+      "title":"IT Products",
+      "subtitle":"",
+      "icon":"",
+      "image":"/_ui/responsive/theme-bgwt/images/featured-products/it-products.jpg",
+      "link":"/c/ITPRODUCTS"
+   },
+   {
       "title":"Intercom",
       "subtitle":"",
       "icon":"",
@@ -54,5 +40,19 @@
       "icon":"",
       "image":"/_ui/responsive/theme-bgwt/images/featured-products/home-automation.jpg",
       "link":"/c/HOMEAUTOMATION"
+   },
+   {
+      "title":"Power",
+      "subtitle":"",
+      "icon":"",
+      "image":"/_ui/responsive/theme-bgwt/images/featured-products/power.jpg",
+      "link":"/c/POWER"
+   },
+   {
+      "title":"Cables & Installation",
+      "subtitle":"",
+      "icon":"",
+      "image":"/_ui/responsive/theme-bgwt/images/featured-products/cable-installation.jpg",
+      "link":"/c/CABLES"
    }
 ]
