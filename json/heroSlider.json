@@ -22,45 +22,5 @@
       "imgMobile":"https://i.ibb.co/09WmgCV/BGW-Tech-Banners-5.jpg",
       "btnText":"Learn more about us",
       "btnLink":"/about-us"
-   },
-   {
-      "title":"Protecting critical infrastructure for over 40 years with innovative, integrated solutions",
-      "subtitle":"Senstar Makes Sense",
-      "imgDesktop":"https://i.ibb.co/pZJw8CH/senstar-desktop.png",
-      "imgMobile":"https://i.ibb.co/QX9ky5L/senstar-mobile.png",
-      "btnText":"Explore Senstar",
-      "btnLink":"www.senstar.com "
-   },
-   {
-      "title":"The A-Z of PTZ, NEW i-PRO PTZ Line Up from cyber-Secure Edge AI to multiple Zoom options. 35 new models",
-      "subtitle":"Now available ",
-      "imgDesktop":"https://i.ibb.co/tHs6DTG/i-Pro-dekstop.png",
-      "imgMobile":"https://i.ibb.co/4s0LgPq/i-Pro-mobile.png",
-      "btnText":"Explore i-PRO",
-      "btnLink":"https://i-pro.com/products_and_solutions/en/surveillance "
-   },
-   {
-      "title":"Madison Express gives you more than expected",
-      "subtitle":"Quality cable & connectivity",
-      "imgDesktop":"https://i.ibb.co/dPsVvkt/MEX-BGW-Hero-Slide-1280-v2.png",
-      "imgMobile":"https://i.ibb.co/XVLpRYM/MEX-BGW-Hero-Slide-Mob-600-v2.png",
-      "btnText":"Explore Madison",
-      "btnLink":"www.madisonexpress.com.au"
-   },
-   {
-      "title":"Leading the way in intelligent video analytics & facial recognition technology",
-      "subtitle":"Vix Vizion",
-      "imgDesktop":"https://i.ibb.co/475b046/BGWT-Desktop-1280-720-px.png",
-      "imgMobile":"https://i.ibb.co/bsmTYc0/BGWT-Mobile-600-600-px.png",
-      "btnText":"Explore VixVizion",
-      "btnLink":"https://www.vixvizion.com/"
-   },
-   {
-      "title":"No heading",
-      "subtitle":"No sub-title",
-      "imgDesktop":"https://i.ibb.co/W5s6fsx/ION-BGW-Hero-Slider-1280x720px.jpg",
-      "imgMobile":"https://i.ibb.co/HxQZFb4/ION-BGW-Hero-Slider-600x600px.jpg",
-      "btnText":"Explore ION UPS",
-      "btnLink":"https://ionups.com.au/"
    }
 ]
