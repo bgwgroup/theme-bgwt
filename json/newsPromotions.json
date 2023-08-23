@@ -62,26 +62,6 @@
    {
       "category": "category-news",
       "date": "21 July",
-      "video": "true",
-      "title": "Introducing the New i-PRO Configuration Tool",
-      "text": "In this article, we are going to take a quick look at the configuration tool released by i-PRO to support major VSM solutions.",
-      "image": "https://i.ibb.co/MZQc7ZG/ipro-config.jpg",
-      "link": "/news-article/i-PRO-config-tool",
-      "target": "_self"
-  },
-   {
-      "category": "category-news",
-      "date": "21 July",
-      "video": "true",
-      "title": "Leading edge technology - the Halo 3C",
-      "text": "How many times have you quoted a job and had customers question how they set up camera’s in a space that will potentially infringe on someone’s privacy rights? Halo 3C is the answer.",
-      "image": "https://i.ibb.co/Sn10Lyf/halo3cimg.jpg",
-      "link": "/news-article/halo-3c",
-      "target": "_self"
-  },
-   {
-      "category": "category-news",
-      "date": "21 July",
       "video": "false",
       "title": "Latest Products from Dell",
       "text": "As a Dell Partner, you can trust that when you are buying Dell products from us, that you are buying genuine parts. Let’s take a look at a couple of products in our Dell range that shine in the catalogue.",
@@ -91,12 +71,32 @@
   },
   {
       "category": "category-news",
-      "date": "21 July",
+      "date": "15 June",
       "video": "true",
       "title": "Avigilon - H5A Multi-Sensor Camera",
       "text": "In this article, we’d like to introduce you to the Avigilon H5A Multisensor camera. It boasts 360-degree panoramic views with faster frame rates delivering high-quality images in even the most challenging of lighting situations.",
       "image": "https://i.ibb.co/bmSH23Z/avigilon-1.png",
       "link": "/news-article/avigilon-h5a-multi-sensor",
+      "target": "_self"
+  },
+   {
+      "category": "category-news",
+      "date": "09 June",
+      "video": "true",
+      "title": "Introducing the New i-PRO Configuration Tool",
+      "text": "In this article, we are going to take a quick look at the configuration tool released by i-PRO to support major VSM solutions.",
+      "image": "https://i.ibb.co/MZQc7ZG/ipro-config.jpg",
+      "link": "/news-article/i-PRO-config-tool",
+      "target": "_self"
+  },
+   {
+      "category": "category-news",
+      "date": "25 May",
+      "video": "true",
+      "title": "Leading edge technology - the Halo 3C",
+      "text": "How many times have you quoted a job and had customers question how they set up camera’s in a space that will potentially infringe on someone’s privacy rights? Halo 3C is the answer.",
+      "image": "https://i.ibb.co/Sn10Lyf/halo3cimg.jpg",
+      "link": "/news-article/halo-3c",
       "target": "_self"
   }
 ]
