@@ -1,13 +1,4 @@
 [
-  
-  {
-    "title": "ION UPS",
-    "description": "ION in Australia believe power protection and security solutions go hand in hand and ION has been designs power protection solutions specifically for the Australian market. ION’s latest technology backed by an industry leading warranty and advanced replace process.",
-    "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/ion.png",
-    "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/ion-cover.jpg",
-    "rangeUrl": "/search/?text=Ion",
-    "website": "http://www.ionups.com.au/"
-  },
   {
     "title": "i-Pro",
     "description": "i-Pro (previously Panasonic) in Japan is a world renowned leader in CCTV video surveillance equipment and security cameras, it has over 60 years of heritage in the security industry, and has introduced ground-breaking technology over the past half-century to Australia.",
@@ -17,12 +8,12 @@
     "website": "https://i-pro.com/corp/en/"
   },
   {
-    "title": "Madison Cable",
-    "description": "Madison Technologies is an Australian owned business that innovates, distributes and supports a range of high-quality products such as security and communications cables and devices for day to day use or for specialized project use in Australia.",
-    "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/madison.svg",
-    "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/madison-cover.png",
-    "rangeUrl": "/search/?text=Madison+Technologies",
-    "website": "https://madison.tech/"
+    "title": "Milestone",
+    "description": "Milestone Systems in Denmark is a global leader in open platform IP video management software (VMS). Milestone joins forces with a powerful open ecosystem of Partners to offer dynamic surveillance solutions to meet the ever changing demands of customer and technologies in Australia",
+    "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/milestone.svg",
+    "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/milestone-cover.jpg",
+    "rangeUrl": "/search/?text=Milestone",
+    "website": "https://www.milestonesys.com/"
   },
   {
     "title": "Dell",
@@ -31,54 +22,6 @@
     "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/dell-cover.jpg",
     "rangeUrl": "/search/?text=Dell",
     "website": "http://www.dell.com.au/"
-  },
-  {
-    "title": "Senstar",
-    "description": "Senstar is a global technology leader in advanced sensing and information management systems for the protection of infrastructure and facilities. With intelligent video management, video analytics, access control, and innovative perimeter intrusion detection systems, Senstar offers a comprehensive suite of proven, integrated technologies. Senstar products have been protecting critical assets around the world for over 40 years. Key to our longevity and success is the ability to deliver leading-edge security and risk management solutions, backed by deep industry knowledge and world-class support. Senstar products can be found protecting assets in a wide range of applications, including critical infrastructure, corrections, logistics, and oil and gas. Our products also protect assets in many other industries and applications.",
-    "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/senstar.svg",
-    "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/senstar-cover.png",
-    "rangeUrl": "/search/?text=Senstar",
-    "website": "http://senstar.com/"
-  },
-  {
-    "title": "Vix Vizion",
-    "description": "Vix Vizion Pty Ltd, formerly Imagus Technology in Australia, is a leader in video analytics and facial recognition technology using advanced deep learning algorithms to identify people’s faces for the purpose of security, operations and access control in Australia.",
-    "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/vixvizion.jpg",
-    "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/vixvizion-cover.jpg",
-    "rangeUrl": "/search/?text=Vix+Vizion",
-    "website": "https://www.vixvizion.com/"
-  },
-  {
-    "title": "KBC",
-    "description": "KBC Networks in the USA is a global manufacturer of industrial transmission equipment, specifically for the transmission of information across multiple mediums, including IP, Wireless, Fibre Optic and encrypted for security and CCTV solutions in Australia",
-    "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/kbc.png",
-    "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/kbc-cover.jpg",
-    "rangeUrl": "/search/?text=KBC+Networks",
-    "website": "https://www.kbcnetworks.com/"
-  },
-  {
-    "title": "Optex",
-    "description": "Optex Co., Ltd. in Japan has been providing No.1 global niche products and services to the world with our sensing technology which has been refined since its establishment and its capabilities developed to solve challenges in site-specific environments or purpose of use.",
-    "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/optex.png",
-    "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/optex-cover.jpg",
-    "rangeUrl": "/search/?text=Optex",
-    "website": "https://www.optex.co.jp"
-  },
-  {
-    "title": "Antrica",
-    "description": "Antrica in the UK is a specialist manufacturer & supplier of video over IP solutions who are well-known and a trusted name in the market for specialist range of high quality, dedicated hardware video encoders and decoders such as SpotBox in Australia.",
-    "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/antrica.png",
-    "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/antrica-cover.jpeg",
-    "rangeUrl": "/search/?text=Antrica",
-    "website": "http://www.antrica.com/"
-  },
-  {
-    "title": "Milestone",
-    "description": "Milestone Systems in Denmark is a global leader in open platform IP video management software (VMS). Milestone joins forces with a powerful open ecosystem of Partners to offer dynamic surveillance solutions to meet the ever changing demands of customer and technologies in Australia",
-    "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/milestone.svg",
-    "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/milestone-cover.jpg",
-    "rangeUrl": "/search/?text=Milestone",
-    "website": "https://www.milestonesys.com/"
   },
   {
     "title": "Pelco",
@@ -95,14 +38,6 @@
     "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/avigilon-cover.jpg",
     "rangeUrl": "/search/?text=Avigilon",
     "website": "https://www.avigilon.com/"
-  },
-  {
-    "title": "Allied Telesis",
-    "description": "Allied Telesis in Japan creates high quality, secure and easy to use wired and wireless IT networks products to support a complete IP based security and CCTV solution in medium to large scale government and enterprise segments in Australia.",
-    "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/alliedtelesis.svg",
-    "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/alliedtelesis-cover.jpg",
-    "rangeUrl": "/search/?text=Allied+Telesis",
-    "website": "https://www.alliedtelesis.com/us/en"
   },
   {
     "title": "DSC",
@@ -137,20 +72,68 @@
     "website": "https://www.alarm.com/AU"
   },
   {
-    "title": "Tamron",
-    "description": "Tamron in Japan is a global manufacturer of optical equipment lenses that offers premium grade camera lenses for security and CCTV cameras used in industrial and enterprise segments of the market in Australia.",
-    "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/tamron.png",
-    "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/tamron-cover.jpg",
-    "rangeUrl": "/search/?text=Tamron",
-    "website": "https://tamron.com.au/"
+    "title": "LenelS2",
+    "description": "LenelS2 Netbox in the USA pioneered the use of network security appliances (access control and CCTV) with browser-delivered content to build flexible management systems that meet the demands of both the security and the IT departments in Australia and globally.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/lenels2.jpg",
+    "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/lenels2-cover.jpg",
+    "rangeUrl": "/search/?text=LenelS2",
+    "website": "https://www.s2sys.com/solutions/products/access-control-systems/netbox"
   },
   {
-    "title": "Iluminar",
-    "description": "Iluminar in the USA is a specialist manufacturer and supplier of high quality Infrared (IR) and white light illuminators and license plate recognition products designed specifically for the security and CCTV industries worldwide and in Australia.",
-    "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/iluminar.png",
-    "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/iluminar-cover.jpg",
-    "rangeUrl": "/search/?text=Iluminar",
-    "website": "https://www.iluminarinc.com/"
+    "title": "Allied Telesis",
+    "description": "Allied Telesis in Japan creates high quality, secure and easy to use wired and wireless IT networks products to support a complete IP based security and CCTV solution in medium to large scale government and enterprise segments in Australia.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/alliedtelesis.svg",
+    "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/alliedtelesis-cover.jpg",
+    "rangeUrl": "/search/?text=Allied+Telesis",
+    "website": "https://www.alliedtelesis.com/us/en"
+  },
+  {
+    "title": "Antrica",
+    "description": "Antrica in the UK is a specialist manufacturer & supplier of video over IP solutions who are well-known and a trusted name in the market for specialist range of high quality, dedicated hardware video encoders and decoders such as SpotBox in Australia.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/antrica.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/antrica-cover.jpeg",
+    "rangeUrl": "/search/?text=Antrica",
+    "website": "http://www.antrica.com/"
+  },
+  {
+    "title": "ION UPS",
+    "description": "ION in Australia believe power protection and security solutions go hand in hand and ION has been designs power protection solutions specifically for the Australian market. ION’s latest technology backed by an industry leading warranty and advanced replace process.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/ion.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/ion-cover.jpg",
+    "rangeUrl": "/search/?text=Ion",
+    "website": "http://www.ionups.com.au/"
+  },
+  {
+    "title": "KBC",
+    "description": "KBC Networks in the USA is a global manufacturer of industrial transmission equipment, specifically for the transmission of information across multiple mediums, including IP, Wireless, Fibre Optic and encrypted for security and CCTV solutions in Australia",
+    "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/kbc.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/kbc-cover.jpg",
+    "rangeUrl": "/search/?text=KBC+Networks",
+    "website": "https://www.kbcnetworks.com/"
+  },
+  {
+    "title": "Optex",
+    "description": "Optex Co., Ltd. in Japan has been providing No.1 global niche products and services to the world with our sensing technology which has been refined since its establishment and its capabilities developed to solve challenges in site-specific environments or purpose of use.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/optex.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/optex-cover.jpg",
+    "rangeUrl": "/search/?text=Optex",
+    "website": "https://www.optex.co.jp"
+  },
+  {
+    "title": "Senstar",
+    "description": "Senstar is a global technology leader in advanced sensing and information management systems for the protection of infrastructure and facilities, offering a comprehensive suite of intelligent video management, video analytics, access control, and innovative perimeter intrusion detection systems.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/senstar.svg",
+    "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/senstar-cover.png",
+    "rangeUrl": "/search/?text=Senstar",
+    "website": "http://senstar.com/"
+  },
+  {
+    "title": "Vix Vizion",
+    "description": "Vix Vizion Pty Ltd, formerly Imagus Technology in Australia, is a leader in video analytics and facial recognition technology using advanced deep learning algorithms to identify people’s faces for the purpose of security, operations and access control in Australia.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/vixvizion.jpg",
+    "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/vixvizion-cover.jpg",
+    "rangeUrl": "/search/?text=Vix+Vizion",
+    "website": "https://www.vixvizion.com/"
   },
   {
     "title": "Kocom",
@@ -161,20 +144,36 @@
     "website": "http://www.kocom.com"
   },
   {
-    "title": "LenelS2",
-    "description": "LenelS2 Netbox in the USA pioneered the use of network security appliances (access control and CCTV) with browser-delivered content to build flexible management systems that meet the demands of both the security and the IT departments in Australia and globally.",
-    "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/lenels2.jpg",
-    "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/lenels2-cover.jpg",
-    "rangeUrl": "/search/?text=LenelS2",
-    "website": "https://www.s2sys.com/solutions/products/access-control-systems/netbox"
+    "title": "Exacq",
+    "description": "Exacq a JCI company in the USA offers exacqVision IP camera servers, hybrid video recorders, video management system (VMS) software, video encoders and IP video security solutions to security and CCTV systems integrators around the world and in Australia.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/exacq.jpg",
+    "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/exacq-cover.jpg",
+    "rangeUrl": "/search/?text=Exacq",
+    "website": "http://www.exacq.com/"
   },
   {
-    "title": "Veracity",
-    "description": "Veracity in the UK design, develop and market innovative transmission, storage and display products, primarily for network video surveillance applications which solve real-world IP Video problems globally and in Australia.",
-    "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/veracity.jpg",
-    "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/veracity-cover.png",
-    "rangeUrl": "/search/?text=Veracity",
-    "website": "http://www.veracityglobal.com/"
+    "title": "Software House",
+    "description": "Software House (a JCI Company) in the USA has built a reputation in the security industry as an innovator of security and event management technologies. With its continuous investment in R&D, and the ability to leverage new technologies, Software House has reached technological excellence. Reliability, flexibility, and power are why many companies choose Software House solutions for their security needs.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/softwarehouse.jpg",
+    "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/softwarehouse-cover.jpeg",
+    "rangeUrl": "/search/?text=Software+House",
+    "website": "https://www.swhouse.com/"
+  },
+  {
+    "title": "Iluminar",
+    "description": "Iluminar in the USA is a specialist manufacturer and supplier of high quality Infrared (IR) and white light illuminators and license plate recognition products designed specifically for the security and CCTV industries worldwide and in Australia.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/iluminar.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/iluminar-cover.jpg",
+    "rangeUrl": "/search/?text=Iluminar",
+    "website": "https://www.iluminarinc.com/"
+  },
+  {
+    "title": "Tamron",
+    "description": "Tamron in Japan is a global manufacturer of optical equipment lenses that offers premium grade camera lenses for security and CCTV cameras used in industrial and enterprise segments of the market in Australia.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/tamron.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/tamron-cover.jpg",
+    "rangeUrl": "/search/?text=Tamron",
+    "website": "https://tamron.com.au/"
   },
   {
     "title": "Assa Abloy",
@@ -201,19 +200,11 @@
     "website": "https://www.seesecurity.com.au/"
   },
   {
-    "title": "Exacq",
-    "description": "Exacq a JCI company in the USA offers exacqVision IP camera servers, hybrid video recorders, video management system (VMS) software, video encoders and IP video security solutions to security and CCTV systems integrators around the world and in Australia.",
-    "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/exacq.jpg",
-    "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/exacq-cover.jpg",
-    "rangeUrl": "/search/?text=Exacq",
-    "website": "http://www.exacq.com/"
-  },
-  {
-    "title": "Software House",
-    "description": "Software House (a JCI Company) in the USA has built a reputation in the security industry as an innovator of security and event management technologies. With its continuous investment in R&D, and the ability to leverage new technologies, Software House has reached technological excellence. Reliability, flexibility, and power are why many companies choose Software House solutions for their security needs.",
-    "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/softwarehouse.jpg",
-    "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/softwarehouse-cover.jpeg",
-    "rangeUrl": "/search/?text=Software+House",
-    "website": "https://www.swhouse.com/"
+    "title": "Madison Cable",
+    "description": "Madison Technologies is an Australian owned business that innovates, distributes and supports a range of high-quality products such as security and communications cables and devices for day to day use or for specialized project use in Australia.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/madison.svg",
+    "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/madison-cover.png",
+    "rangeUrl": "/search/?text=Madison+Technologies",
+    "website": "https://madison.tech/"
   }
 ]
