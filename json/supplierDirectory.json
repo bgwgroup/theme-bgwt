@@ -6,7 +6,17 @@
     "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/ipro-panasonic.jpg",
     "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/ipro-panasonic-cover.jpg",
     "rangeUrl": "/search/?text=iPro+Panasonic",
-    "website": "https://i-pro.com/corp/en/"
+    "website": "https://i-pro.com/corp/en/",
+    "dataSplit": "",
+    "dataTopBanner": "",
+    "dataTitle": "",
+    "dataDescription": "",
+    "dataHtmlBlock1": "",
+    "dataHtmlBlock2": "",
+    "dataHtmlBlock3": "",
+    "dataHtmlBlock4": "",
+    "dataHtmlBlock5": "",
+    "dataHtmlBlock6": ""
   },
   {
     "id": "milestone",
@@ -15,7 +25,17 @@
     "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/milestone.svg",
     "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/milestone-cover.jpg",
     "rangeUrl": "/search/?text=Milestone",
-    "website": "https://www.milestonesys.com/"
+    "website": "https://www.milestonesys.com/",
+    "dataSplit": "",
+    "dataTopBanner": "",
+    "dataTitle": "",
+    "dataDescription": "",
+    "dataHtmlBlock1": "",
+    "dataHtmlBlock2": "",
+    "dataHtmlBlock3": "",
+    "dataHtmlBlock4": "",
+    "dataHtmlBlock5": "",
+    "dataHtmlBlock6": ""
   },
   {
     "id": "dell",
@@ -24,7 +44,17 @@
     "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/dell.jpg",
     "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/dell-cover.jpg",
     "rangeUrl": "/search/?text=Dell",
-    "website": "http://www.dell.com.au/"
+    "website": "http://www.dell.com.au/",
+    "dataSplit": "",
+    "dataTopBanner": "",
+    "dataTitle": "",
+    "dataDescription": "",
+    "dataHtmlBlock1": "",
+    "dataHtmlBlock2": "",
+    "dataHtmlBlock3": "",
+    "dataHtmlBlock4": "",
+    "dataHtmlBlock5": "",
+    "dataHtmlBlock6": ""
   },
   {
     "id": "pelco",
@@ -33,7 +63,17 @@
     "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/pelco.png",
     "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/pelco-cover.jpg",
     "rangeUrl": "/search/?text=Pelco",
-    "website": "http://www.pelco.com/"
+    "website": "http://www.pelco.com/",
+    "dataSplit": "",
+    "dataTopBanner": "",
+    "dataTitle": "",
+    "dataDescription": "",
+    "dataHtmlBlock1": "",
+    "dataHtmlBlock2": "",
+    "dataHtmlBlock3": "",
+    "dataHtmlBlock4": "",
+    "dataHtmlBlock5": "",
+    "dataHtmlBlock6": ""
   },
   {
     "id": "avigilon",
@@ -42,7 +82,17 @@
     "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/avigilon.svg",
     "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/avigilon-cover.jpg",
     "rangeUrl": "/search/?text=Avigilon",
-    "website": "https://www.avigilon.com/"
+    "website": "https://www.avigilon.com/",
+    "dataSplit": "",
+    "dataTopBanner": "",
+    "dataTitle": "",
+    "dataDescription": "",
+    "dataHtmlBlock1": "",
+    "dataHtmlBlock2": "",
+    "dataHtmlBlock3": "",
+    "dataHtmlBlock4": "",
+    "dataHtmlBlock5": "",
+    "dataHtmlBlock6": ""
   },
   {
     "id": "dsc",
@@ -51,7 +101,17 @@
     "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/dsc.jpg",
     "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/dsc-cover.jpg",
     "rangeUrl": "/search/?text=DSC",
-    "website": "http://www.dsc.com"
+    "website": "http://www.dsc.com",
+    "dataSplit": "",
+    "dataTopBanner": "",
+    "dataTitle": "",
+    "dataDescription": "",
+    "dataHtmlBlock1": "",
+    "dataHtmlBlock2": "",
+    "dataHtmlBlock3": "",
+    "dataHtmlBlock4": "",
+    "dataHtmlBlock5": "",
+    "dataHtmlBlock6": ""
   },
   {
     "id": "qolsys",
@@ -60,7 +120,17 @@
     "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/qolsys.png",
     "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/qolsys-cover.jpg",
     "rangeUrl": "/search/?text=Qolsys",
-    "website": "https://qolsys.com/"
+    "website": "https://qolsys.com/",
+    "dataSplit": "",
+    "dataTopBanner": "",
+    "dataTitle": "",
+    "dataDescription": "",
+    "dataHtmlBlock1": "",
+    "dataHtmlBlock2": "",
+    "dataHtmlBlock3": "",
+    "dataHtmlBlock4": "",
+    "dataHtmlBlock5": "",
+    "dataHtmlBlock6": ""
   },
   {
     "id": "kantech",
@@ -69,7 +139,17 @@
     "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/kantech.jpg",
     "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/kantech-cover.jpg",
     "rangeUrl": "/search/?text=Kantech",
-    "website": "https://www.kantech.com/"
+    "website": "https://www.kantech.com/",
+    "dataSplit": "",
+    "dataTopBanner": "",
+    "dataTitle": "",
+    "dataDescription": "",
+    "dataHtmlBlock1": "",
+    "dataHtmlBlock2": "",
+    "dataHtmlBlock3": "",
+    "dataHtmlBlock4": "",
+    "dataHtmlBlock5": "",
+    "dataHtmlBlock6": ""
   },
   {
     "id": "alarm",
@@ -78,7 +158,17 @@
     "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/alarmcom.jpg",
     "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/alarmcom-cover.jpg",
     "rangeUrl": "/search/?text=Alarm.com",
-    "website": "https://www.alarm.com/AU"
+    "website": "https://www.alarm.com/AU",
+    "dataSplit": "",
+    "dataTopBanner": "",
+    "dataTitle": "",
+    "dataDescription": "",
+    "dataHtmlBlock1": "",
+    "dataHtmlBlock2": "",
+    "dataHtmlBlock3": "",
+    "dataHtmlBlock4": "",
+    "dataHtmlBlock5": "",
+    "dataHtmlBlock6": ""
   },
   {
     "id": "lenels2",
@@ -87,7 +177,17 @@
     "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/lenels2.jpg",
     "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/lenels2-cover.jpg",
     "rangeUrl": "/search/?text=LenelS2",
-    "website": "https://www.s2sys.com/solutions/products/access-control-systems/netbox"
+    "website": "https://www.s2sys.com/solutions/products/access-control-systems/netbox",
+    "dataSplit": "",
+    "dataTopBanner": "",
+    "dataTitle": "",
+    "dataDescription": "",
+    "dataHtmlBlock1": "",
+    "dataHtmlBlock2": "",
+    "dataHtmlBlock3": "",
+    "dataHtmlBlock4": "",
+    "dataHtmlBlock5": "",
+    "dataHtmlBlock6": ""
   },
   {
     "id": "allied-telesis",
@@ -96,7 +196,17 @@
     "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/alliedtelesis.svg",
     "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/alliedtelesis-cover.jpg",
     "rangeUrl": "/search/?text=Allied+Telesis",
-    "website": "https://www.alliedtelesis.com/us/en"
+    "website": "https://www.alliedtelesis.com/us/en",
+    "dataSplit": "",
+    "dataTopBanner": "",
+    "dataTitle": "",
+    "dataDescription": "",
+    "dataHtmlBlock1": "",
+    "dataHtmlBlock2": "",
+    "dataHtmlBlock3": "",
+    "dataHtmlBlock4": "",
+    "dataHtmlBlock5": "",
+    "dataHtmlBlock6": ""
   },
   {
     "id": "antrica",
@@ -105,7 +215,17 @@
     "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/antrica.png",
     "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/antrica-cover.jpeg",
     "rangeUrl": "/search/?text=Antrica",
-    "website": "http://www.antrica.com/"
+    "website": "http://www.antrica.com/",
+    "dataSplit": "",
+    "dataTopBanner": "",
+    "dataTitle": "",
+    "dataDescription": "",
+    "dataHtmlBlock1": "",
+    "dataHtmlBlock2": "",
+    "dataHtmlBlock3": "",
+    "dataHtmlBlock4": "",
+    "dataHtmlBlock5": "",
+    "dataHtmlBlock6": ""
   },
   {
     "id": "ion-ups",
@@ -114,7 +234,17 @@
     "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/ion.png",
     "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/ion-cover.jpg",
     "rangeUrl": "/search/?text=Ion",
-    "website": "http://www.ionups.com.au/"
+    "website": "http://www.ionups.com.au/",
+    "dataSplit": "",
+    "dataTopBanner": "",
+    "dataTitle": "",
+    "dataDescription": "",
+    "dataHtmlBlock1": "",
+    "dataHtmlBlock2": "",
+    "dataHtmlBlock3": "",
+    "dataHtmlBlock4": "",
+    "dataHtmlBlock5": "",
+    "dataHtmlBlock6": ""
   },
   {
     "id": "kbc",
@@ -123,7 +253,17 @@
     "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/kbc.png",
     "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/kbc-cover.jpg",
     "rangeUrl": "/search/?text=KBC+Networks",
-    "website": "https://www.kbcnetworks.com/"
+    "website": "https://www.kbcnetworks.com/",
+    "dataSplit": "",
+    "dataTopBanner": "",
+    "dataTitle": "",
+    "dataDescription": "",
+    "dataHtmlBlock1": "",
+    "dataHtmlBlock2": "",
+    "dataHtmlBlock3": "",
+    "dataHtmlBlock4": "",
+    "dataHtmlBlock5": "",
+    "dataHtmlBlock6": ""
   },
   {
     "id": "optex",
@@ -132,7 +272,17 @@
     "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/optex.png",
     "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/optex-cover.jpg",
     "rangeUrl": "/search/?text=Optex",
-    "website": "https://www.optex.co.jp"
+    "website": "https://www.optex.co.jp",
+    "dataSplit": "",
+    "dataTopBanner": "",
+    "dataTitle": "",
+    "dataDescription": "",
+    "dataHtmlBlock1": "",
+    "dataHtmlBlock2": "",
+    "dataHtmlBlock3": "",
+    "dataHtmlBlock4": "",
+    "dataHtmlBlock5": "",
+    "dataHtmlBlock6": ""
   },
   {
     "id": "senstar",
@@ -141,7 +291,17 @@
     "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/senstar.svg",
     "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/senstar-cover.png",
     "rangeUrl": "/search/?text=Senstar",
-    "website": "http://senstar.com/"
+    "website": "http://senstar.com/",
+    "dataSplit": "",
+    "dataTopBanner": "",
+    "dataTitle": "",
+    "dataDescription": "",
+    "dataHtmlBlock1": "",
+    "dataHtmlBlock2": "",
+    "dataHtmlBlock3": "",
+    "dataHtmlBlock4": "",
+    "dataHtmlBlock5": "",
+    "dataHtmlBlock6": ""
   },
   {
     "id": "vix-vizion",
@@ -150,7 +310,17 @@
     "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/vixvizion.jpg",
     "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/vixvizion-cover.jpg",
     "rangeUrl": "/search/?text=Vix+Vizion",
-    "website": "https://www.vixvizion.com/"
+    "website": "https://www.vixvizion.com/",
+    "dataSplit": "",
+    "dataTopBanner": "",
+    "dataTitle": "",
+    "dataDescription": "",
+    "dataHtmlBlock1": "",
+    "dataHtmlBlock2": "",
+    "dataHtmlBlock3": "",
+    "dataHtmlBlock4": "",
+    "dataHtmlBlock5": "",
+    "dataHtmlBlock6": ""
   },
   {
     "id": "kocom",
@@ -159,7 +329,17 @@
     "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/kocom.png",
     "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/kocom-cover.jpg",
     "rangeUrl": "/search/?text=Kocom",
-    "website": "http://www.kocom.com"
+    "website": "http://www.kocom.com",
+    "dataSplit": "",
+    "dataTopBanner": "",
+    "dataTitle": "",
+    "dataDescription": "",
+    "dataHtmlBlock1": "",
+    "dataHtmlBlock2": "",
+    "dataHtmlBlock3": "",
+    "dataHtmlBlock4": "",
+    "dataHtmlBlock5": "",
+    "dataHtmlBlock6": ""
   },
   {
     "id": "exacq",
@@ -168,7 +348,17 @@
     "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/exacq.jpg",
     "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/exacq-cover.jpg",
     "rangeUrl": "/search/?text=Exacq",
-    "website": "http://www.exacq.com/"
+    "website": "http://www.exacq.com/",
+    "dataSplit": "",
+    "dataTopBanner": "",
+    "dataTitle": "",
+    "dataDescription": "",
+    "dataHtmlBlock1": "",
+    "dataHtmlBlock2": "",
+    "dataHtmlBlock3": "",
+    "dataHtmlBlock4": "",
+    "dataHtmlBlock5": "",
+    "dataHtmlBlock6": ""
   },
   {
     "id": "software-house",
@@ -177,7 +367,17 @@
     "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/softwarehouse.jpg",
     "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/softwarehouse-cover.jpeg",
     "rangeUrl": "/search/?text=Software+House",
-    "website": "https://www.swhouse.com/"
+    "website": "https://www.swhouse.com/",
+    "dataSplit": "",
+    "dataTopBanner": "",
+    "dataTitle": "",
+    "dataDescription": "",
+    "dataHtmlBlock1": "",
+    "dataHtmlBlock2": "",
+    "dataHtmlBlock3": "",
+    "dataHtmlBlock4": "",
+    "dataHtmlBlock5": "",
+    "dataHtmlBlock6": ""
   },
   {
     "id": "iluminar",
@@ -186,7 +386,17 @@
     "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/iluminar.png",
     "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/iluminar-cover.jpg",
     "rangeUrl": "/search/?text=Iluminar",
-    "website": "https://www.iluminarinc.com/"
+    "website": "https://www.iluminarinc.com/",
+    "dataSplit": "",
+    "dataTopBanner": "",
+    "dataTitle": "",
+    "dataDescription": "",
+    "dataHtmlBlock1": "",
+    "dataHtmlBlock2": "",
+    "dataHtmlBlock3": "",
+    "dataHtmlBlock4": "",
+    "dataHtmlBlock5": "",
+    "dataHtmlBlock6": ""
   },
   {
     "id": "tamron",
@@ -195,7 +405,17 @@
     "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/tamron.png",
     "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/tamron-cover.jpg",
     "rangeUrl": "/search/?text=Tamron",
-    "website": "https://tamron.com.au/"
+    "website": "https://tamron.com.au/",
+    "dataSplit": "",
+    "dataTopBanner": "",
+    "dataTitle": "",
+    "dataDescription": "",
+    "dataHtmlBlock1": "",
+    "dataHtmlBlock2": "",
+    "dataHtmlBlock3": "",
+    "dataHtmlBlock4": "",
+    "dataHtmlBlock5": "",
+    "dataHtmlBlock6": ""
   },
   {
     "id": "assa-abloy",
@@ -204,7 +424,17 @@
     "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/assaabloy.png",
     "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/assaabloy-cover.jpg",
     "rangeUrl": "/search/?text=Assa+Abloy",
-    "website": "https://www.assaabloyopeningsolutions.com.au/en/"
+    "website": "https://www.assaabloyopeningsolutions.com.au/en/",
+    "dataSplit": "",
+    "dataTopBanner": "",
+    "dataTitle": "",
+    "dataDescription": "",
+    "dataHtmlBlock1": "",
+    "dataHtmlBlock2": "",
+    "dataHtmlBlock3": "",
+    "dataHtmlBlock4": "",
+    "dataHtmlBlock5": "",
+    "dataHtmlBlock6": ""
   },
   {
     "id": "juniper",
@@ -213,7 +443,17 @@
     "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/juniper.jpg",
     "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/juniper-cover.jpg",
     "rangeUrl": "/search/?text=Juniper",
-    "website": "https://www.juniper.net"
+    "website": "https://www.juniper.net",
+    "dataSplit": "",
+    "dataTopBanner": "",
+    "dataTitle": "",
+    "dataDescription": "",
+    "dataHtmlBlock1": "",
+    "dataHtmlBlock2": "",
+    "dataHtmlBlock3": "",
+    "dataHtmlBlock4": "",
+    "dataHtmlBlock5": "",
+    "dataHtmlBlock6": ""
   },
   {
     "id": "see-security",
@@ -222,7 +462,17 @@
     "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/seesecurity.jpg",
     "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/seesecurity-cover.jpg",
     "rangeUrl": "/search/?text=See+Security",
-    "website": "https://www.seesecurity.com.au/"
+    "website": "https://www.seesecurity.com.au/",
+    "dataSplit": "",
+    "dataTopBanner": "",
+    "dataTitle": "",
+    "dataDescription": "",
+    "dataHtmlBlock1": "",
+    "dataHtmlBlock2": "",
+    "dataHtmlBlock3": "",
+    "dataHtmlBlock4": "",
+    "dataHtmlBlock5": "",
+    "dataHtmlBlock6": ""
   },
   {
     "id": "madison-cable",
@@ -231,6 +481,16 @@
     "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/madison.svg",
     "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/madison-cover.png",
     "rangeUrl": "/search/?text=Madison+Technologies",
-    "website": "https://madison.tech/"
+    "website": "https://madison.tech/",
+    "dataSplit": "",
+    "dataTopBanner": "",
+    "dataTitle": "",
+    "dataDescription": "",
+    "dataHtmlBlock1": "",
+    "dataHtmlBlock2": "",
+    "dataHtmlBlock3": "",
+    "dataHtmlBlock4": "",
+    "dataHtmlBlock5": "",
+    "dataHtmlBlock6": ""
   }
 ]
