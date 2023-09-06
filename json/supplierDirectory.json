@@ -268,16 +268,16 @@
     "rangeUrl": "/search/?text=KBC+Networks",
     "website": "https://www.kbcnetworks.com/",
     "dataSplit": "",
-    "dataTopBanner": "",
-    "dataTitle": "",
-    "dataDescription": "",
-    "dataHtmlBlock1": "",
-    "dataHtmlBlock2": "",
+    "dataTopBanner": "https://i.ibb.co/tcv8L4B/kbc.jpg",
+    "dataTitle": "Industrial Transmission and Power Solutions",
+    "dataDescription": "KBC Networks is a global manufacturer of industrial IP transmission equipment, specifically for the transmission of information across multiple mediums.  KBC has been a long and trusted provider of solutions for CCTV, security, site management, intelligent transport systems, and industrial control systems. Ruggedized products provide the interfaces that allow cameras, sensors and control equipment signals to be transmitted securely over wireless links, LANs, private and public WANs, mobile, 4G/LTE and fibre optic networks.",
+    "dataHtmlBlock1": "&lt;div class=&quot;supplier-btn-actions button-group&quot;&gt;&lt;a href=&quot;/search/?text=KBC+Networks&quot; class=&quot;supplierShopRange&quot;&gt;Shop range&lt;/a&gt;&lt;a href=&quot;https://www.kbcnetworks.com/&quot; target=&quot;_blank&quot; class=&quot;supplierVisitWebsite&quot;&gt;Visit website&lt;/a&gt;&lt;/div&gt;",
+    "dataHtmlBlock2": "&lt;div class=&quot;component-split&quot;&gt;&lt;div&gt;&lt;a href=&quot;/_ui/responsive/theme-bgwt/documents/case-studies/kbc/case_study_wireless-cultural_site.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.ibb.co/PYg2sBL/kbc-casestudy-1.jpg&quot; alt=&quot;KBC Wireless Delivers Low Impact Transmission&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&lt;a href=&quot;/_ui/responsive/theme-bgwt/documents/case-studies/kbc/case_study_emea_port.pdf&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://i.ibb.co/3kmmd6K/kbc-casestudy-2.jpg&quot; alt=&quot;ThruLink™ Provides Mobile Security Watch&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;",
     "dataHtmlBlock3": "",
     "dataHtmlBlock4": "",
     "dataHtmlBlock5": "",
     "dataHtmlBlock6": "",
-    "keywords":""
+    "keywords":"4G/5G,data transmission,eCopper™,encrypted,Ethernet over coax,Ethernet over utp,Ethernet switches,Fibre Optic transmission,hardened ethernet switches,hardened sfp switch,high throughput,industrial Ethernet Switches,Industrial transmission,industrial utp extender,industrial VPN,IP networking,IP over Coax,IP over fibre,IP over twisted pair,IP transmission,IP video,KBC Networks,managed switches,media converters,optical transmission,PoE,ThruLink™,WES4,Wireless,wireless ethernet transmission"
   },
   {
     "id": "optex",
