@@ -506,17 +506,17 @@
     "logoImg": "/_ui/responsive/common/images/suppliers/bgwt/madison.svg",
     "coverImg": "/_ui/responsive/common/images/suppliers/bgwt/madison-cover.png",
     "rangeUrl": "/search/?text=Madison+Technologies",
-    "website": "https://madison.tech/",
+    "website": "http://www.madisonexpress.com.au",
     "dataSplit": "",
-    "dataTopBanner": "",
-    "dataTitle": "",
+    "dataTopBanner": "https://i.ibb.co/Lv2xGcm/madison.jpg",
+    "dataTitle": "Madison Express specialises in the distribution of quality cable, connectivity and a range of Madison Group products primarily to the electrical wholesale market.",
     "dataDescription": "",
-    "dataHtmlBlock1": "",
-    "dataHtmlBlock2": "",
-    "dataHtmlBlock3": "",
+    "dataHtmlBlock1": "&lt;p&gt;Alongside our own Garland brand, we represent a range of leading cabling, support and connectivity product lines including LEONI, R&amp;M, Moxa and 3M. We provide expert advice and care across all our products and can assist with all aspects of pre and post-sales support.&lt;/p&gt;&lt;p&gt;We supply and develop bulk copper cable, fibre optic cable, and cable accessories. Our copper cables and associated products cover LAN and data, coaxial, power, security and fire control, instrumentation, telephone, audio visual, composite, and traffic connectivity needs.&lt;/p&gt;&lt;p&gt;Madison Express’ flexible fibre cables include multimode and single mode optical fibre, indoor/outdoor riser, external loose tube, industrial armoured, broadcast deployable, and pre-terminated technologies.&lt;/p&gt;",
+    "dataHtmlBlock2": "&lt;div class=&quot;supplier-btn-actions button-group&quot;&gt;&lt;a href=&quot;/search/?text=Madison+Technologies&quot; class=&quot;supplierShopRange&quot;&gt;Shop range&lt;/a&gt;&lt;a href=&quot;http://www.madisonexpress.com.au&quot; target=&quot;_blank&quot; class=&quot;supplierVisitWebsite&quot;&gt;Visit website&lt;/a&gt;&lt;/div&gt;",
+    "dataHtmlBlock3": "&lt;a href=&quot;/_ui/responsive/theme-bgwt/documents/case-studies/madison/MEX-Case-Study_Rozelle-Interchange_Web.pdf&quot; target=&quot;_blank&quot; class=&quot;btn&quot;&gt;View Rozelle Interchange Case Study&lt;/a&gt;",
     "dataHtmlBlock4": "",
     "dataHtmlBlock5": "",
     "dataHtmlBlock6": "",
-    "keywords":""
+    "keywords":"Garland Cables,Garland,R&M,LEONI,Moxa,3M,Communications solutions,Mining & Industrial solutions,Security & Integration solutions,Transport Solutions,Category cable,Fibre optic cable,Data cable,Coaxial cable,Instrumentation cable,Security cable,Speaker cable,Copper cable,Fire Control cable,Patch panels,Shot fire cable,Alarm cable,Traffic cable,Loop detector cable"
   }
 ]
