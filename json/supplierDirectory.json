@@ -328,16 +328,16 @@
     "rangeUrl": "/search/?text=Vix+Vizion",
     "website": "https://www.vixvizion.com/",
     "dataSplit": "",
-    "dataTopBanner": "",
-    "dataTitle": "",
-    "dataDescription": "",
-    "dataHtmlBlock1": "",
-    "dataHtmlBlock2": "",
+    "dataTopBanner": "https://i.ibb.co/djDpWSM/vixvizion.jpg",
+    "dataTitle": "Leading the way in intelligent analytics & facial recognition technology.",
+    "dataDescription": "Vix Vizion is an Australian based team of customer focused specialists. Our world leading technology is at the forefront of providing fast, accurate and robust video analytics and facial recognition solutions for use in security, responsible gaming, retail, student well being, health/aged care, transit and access control applications",
+    "dataHtmlBlock1": "&lt;div class=&quot;supplier-btn-actions button-group&quot;&gt;&lt;a href=&quot;/search/?text=Vix+Vizion&quot; class=&quot;supplierShopRange&quot;&gt;Shop range&lt;/a&gt;&lt;a href=&quot;https://www.vixvizion.com/&quot; target=&quot;_blank&quot; class=&quot;supplierVisitWebsite&quot;&gt;Visit website&lt;/a&gt;&lt;/div&gt;",
+    "dataHtmlBlock2": "&lt;a href=&quot;/_ui/responsive/theme-bgwt/documents/case-studies/vixvizion/20220716-Vix-CaseStudy-A4-SAGaming.pdf&quot; target=&quot;_blank&quot; class=&quot;btn&quot;&gt;View SA Gaming Case Study&lt;/a&gt;&lt;a href=&quot;/_ui/responsive/theme-bgwt/documents/case-studies/vixvizion/20220816-Vix-CaseStudy-A4-Mybar.pdf&quot; target=&quot;_blank&quot; class=&quot;btn&quot;&gt;View MyBar facial recognition Case Study&lt;/a&gt;",
     "dataHtmlBlock3": "",
     "dataHtmlBlock4": "",
     "dataHtmlBlock5": "",
     "dataHtmlBlock6": "",
-    "keywords":""
+    "keywords":"safety, analytics"
   },
   {
     "id": "kocom",
