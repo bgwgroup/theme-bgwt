@@ -1,6 +1,16 @@
 [
    {
       "category": "category-news",
+      "date": "28 Aug",
+      "video": "false",
+      "title": "Geebung QLD, Now Open. ",
+      "text": "Thank you for your support!! It's been a bit over a month now since opening the doors to our new QLD branch in Geebung, and the team couldn't be happier. ",
+      "image": "https://i.ibb.co/jzn08qN/bgwt-geebung-thumb.jpg",
+      "link": "/news-article/geebung-qld-now-open",
+      "target": "_self"
+  },
+   {
+      "category": "category-news",
       "date": "22 Aug",
       "video": "false",
       "title": "2nd Annual Alarm.com Information Day",
