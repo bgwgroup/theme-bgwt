@@ -1,6 +1,16 @@
 [
    {
       "category": "category-news",
+      "date": "22 Aug",
+      "video": "false",
+      "title": "2nd Annual Alarm.com Information Day",
+      "text": "Earlier this month, we held an information day for customers to come along and learn about alarm.com products.",
+      "image": "https://i.ibb.co/QcC5YFn/bgwt-aaid-thumb.jpg",
+      "link": "/news-article/2nd-annual-alarm-info-day",
+      "target": "_self"
+  },
+   {
+      "category": "category-news",
       "date": "16 Aug",
       "video": "false",
       "title": "Meet the team!",
