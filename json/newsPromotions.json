@@ -1,6 +1,16 @@
 [
    {
       "category": "category-news",
+      "date": "4 Sep",
+      "video": "false",
+      "title": "Featured Supplier - Milestone Systems",
+      "text": "As Milestone System partner of the year, it is only fitting that we begin our PING Newsletter Series with a feature on this global leader in video management software.",
+      "image": "https://i.ibb.co/gdG5fP9/team-Milestone-2.jpg",
+      "link": "/news-article/featured-supplier-milestone-systems",
+      "target": "_self"
+  },
+   {
+      "category": "category-news",
       "date": "28 Aug",
       "video": "false",
       "title": "Geebung QLD, Now Open. ",
