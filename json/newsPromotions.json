@@ -1,6 +1,16 @@
 [
    {
       "category": "category-news",
+      "date": "16 Aug",
+      "video": "false",
+      "title": "Meet the team!",
+      "text": "This month, we'd like to introduce you Stephen, Graham, Troy and Joseph in our Sales team and Naomi, our Marketing Manager. The team are based in our BGW Technologies office, located in Seven Hills, NSW. ",
+      "image": "https://i.ibb.co/5MvyvbJ/bgwt-mtt-thumb.jpg",
+      "link": "/news-article/meet-the-team-sydney",
+      "target": "_self"
+  },
+   {
+      "category": "category-news",
       "date": "11 Aug",
       "video": "false",
       "title": "Double delivery Friday!",
